@@ -32,7 +32,7 @@
 #define MAXSIZE 10000  /* maximum matrix size */
 #define MAXWORKERS 10   /* maximum number of workers */
 
-#define DEBUG /* Enable debugging */
+/* #define DEBUG */ /* Enable debugging */
 
 int g_sum = 0;			/* matrix total sum */
 int g_min = INT_MAX;	/* matrix minimum value */ 
